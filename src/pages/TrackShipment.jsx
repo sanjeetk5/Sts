@@ -13,7 +13,7 @@ import { motion } from "framer-motion";
 import { useDispatch, useSelector } from "react-redux";
 import {
   trackShipment,
-  clearShipment,
+
 } from "../features/shipment/shipmentSlice";
 
 const steps = ["Pending", "In Transit", "Delivered"];
