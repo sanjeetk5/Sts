@@ -9,7 +9,7 @@ const Home = () => {
     <Container sx={{ textAlign: "center", mt: 10 }}>
       <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
         <Typography variant="h3" gutterBottom>
-          Track Your Shipments in Real-Time 🚀
+          Track Your Shipments in Real-Time 
         </Typography>
 
         <Typography variant="h6" sx={{ mb: 4 }}>
