@@ -26,7 +26,7 @@ const Login = () => {
   return (
     <Paper sx={{ p: 4, maxWidth: 400, mx: "auto", mt: 10 }}>
       <Typography variant="h5" gutterBottom>
-        🔐 Admin Login
+         Admin Login
       </Typography>
 
       <form onSubmit={handleSubmit}>
